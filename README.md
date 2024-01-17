@@ -14,8 +14,6 @@ This project aims to predict medical insurance costs based on various features u
 
 The dataset used for this project contains information about individuals, including age, BMI, smoking habits, etc. The goal is to predict the medical insurance cost for each individual based on these features.
 
-**Dataset Source:** [Provide the source of your dataset]
-
 ## Streamlit App
 The Streamlit app is designed for a user-friendly experience. It allows users to input their information and receive predictions on medical insurance costs. Additionally, the app provides policy suggestions based on the predicted cost.
 
